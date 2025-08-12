@@ -31,7 +31,7 @@
 
         h1, h2, h3, h4 {
             font-family: 'Poppins', sans-serif;
-            font-weight: 690;
+            font-weight: 680;
         }
 
         .container {
