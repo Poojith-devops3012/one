@@ -131,7 +131,7 @@
             display: flex;
             align-items: center;
             background-color: var(--light);
-            border-radius: 30px;
+            border-radius: 40px;
             padding: 8px 15px;
             width: 250px;
         }
