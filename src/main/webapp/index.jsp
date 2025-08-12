@@ -254,7 +254,7 @@
         /* Categories Section */
         .section-title {
             text-align: center;
-            margin: 60px 0 30px;
+            margin: 60px 0 90px;
         }
 
         .section-title h2 {
