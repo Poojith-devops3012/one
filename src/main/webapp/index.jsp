@@ -170,7 +170,7 @@
         .cart-count {
             position: absolute;
             top: -8px;
-            right: -8px;
+            right: -9px;
             background-color: var(--accent);
             color: white;
             border-radius: 50%;
